@@ -29,6 +29,6 @@ I’m continuously expanding my knowledge in software development while pursuing
 
 Feel free to connect with me:
 
-- [LinkedIn](https://www.linkedin.com/in/csepriyaranjan)
+-LinkedIn [@csepriyaranjan](https://www.linkedin.com/in/csepriyaranjan)
 
 Looking forward to collaborating and sharing ideas!
