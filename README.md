@@ -183,7 +183,7 @@ I'm always interested in connecting with fellow engineers, discussing technical 
   
   ### 📫 Get In Touch
   
-  **Email:** [your.email@example.com](mailto:cse.priyaranjan@gmail.com) • **LinkedIn:** [csepriyaranjan](https://www.linkedin.com/in/csepriyaranjan)
+  **Email:** [cse.priyaranjan@gmail.com](mailto:cse.priyaranjan@gmail.com) • **LinkedIn:** [csepriyaranjan](https://www.linkedin.com/in/csepriyaranjan)
   
   ---
   
