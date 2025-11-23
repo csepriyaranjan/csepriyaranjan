@@ -42,7 +42,7 @@ Full-Stack Engineer with a proven track record of architecting and deploying pro
 - Responsive, mobile-first UI/UX
 - Production deployment on Vercel
 
-[Live Demo](https://servano.vercel.app) | [GitHub Repo](#)
+[Live Demo](https://servano.vercel.app) 
 
 ---
 
@@ -59,7 +59,7 @@ Full-Stack Engineer with a proven track record of architecting and deploying pro
 - Performance-optimized rendering
 - Clean separation of concerns
 
-[Live Demo](https://servanalabs.vercel.app) | [GitHub Repo](#)
+[Live Demo](https://servanalabs.vercel.app)
 
 ---
 
@@ -76,7 +76,7 @@ Full-Stack Engineer with a proven track record of architecting and deploying pro
 - Medical history & prescription management
 - Optimized database queries for performance
 
-[Live Demo](https://doctorsaathi.vercel.app) | [GitHub Repo](#)
+[Live Demo](https://doctorsaathi.vercel.app) 
 
 ---
 
@@ -183,7 +183,7 @@ I'm always interested in connecting with fellow engineers, discussing technical 
   
   ### 📫 Get In Touch
   
-  **Email:** [your.email@example.com](mailto:your.email@example.com) • **LinkedIn:** [csepriyaranjan](https://www.linkedin.com/in/csepriyaranjan)
+  **Email:** [your.email@example.com](mailto:cse.priyaranjan@gmail.com) • **LinkedIn:** [csepriyaranjan](https://www.linkedin.com/in/csepriyaranjan)
   
   ---
   
