@@ -1,194 +1,315 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Priyaranjan+%7C+Full-Stack+Engineer;Building+Scalable+%26+Production-Ready+Solutions" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/csepriyaranjan)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
-  [![GitHub followers](https://img.shields.io/github/followers/csepriyaranjan?style=for-the-badge&logo=github)](https://github.com/csepriyaranjan)
-  
+# Priyaranjan Kumar
+
+### Full-Stack Engineer · Java Backend Developer
+
+**Build. Understand. Improve.**
+
+I build practical web applications, backend APIs, and software products —
+while going deeper into Java backend engineering and system design.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/csepriyaranjan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](#)
+[![GitHub](https://img.shields.io/github/followers/csepriyaranjan?style=for-the-badge\&logo=github)](https://github.com/csepriyaranjan)
+
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-Full-Stack Engineer with a proven track record of architecting and deploying production-grade MERN stack applications. I specialize in building scalable web platforms that deliver exceptional user experiences while maintaining clean, maintainable codebases.
+I'm a Computer Science & Engineering student and Full-Stack Engineer with hands-on experience building web applications, backend APIs, client products, SaaS systems, and mobile applications.
 
-**Currently:** Engineering student by day, shipping production code by night. Focused on creating impactful digital solutions that bridge the gap between user needs and technical excellence.
+I've worked across both **JavaScript and Java ecosystems**, with practical experience in:
 
-**Core Competencies:**
-- End-to-end full-stack development with MERN ecosystem
-- Architecting scalable, maintainable application structures
-- Building intuitive, responsive user interfaces with modern frameworks
-- Implementing secure authentication & authorization systems
-- Database design and optimization for performance at scale
+* Full-stack application development
+* REST API development
+* Database design and data management
+* Authentication and role-based access control
+* Web and mobile applications
+* Deployment and server management
+* Caching and background processing
 
----
+### Currently focusing on
 
-## 🚀 Featured Projects
+**Java → Spring Boot → PostgreSQL → JPA/Hibernate → REST APIs → Security → Redis → System Design**
 
-### 🚗 [Servano](https://servano.vercel.app) – Car Service Booking Platform
-> Enterprise-grade service management system with role-based access control
-
-**Tech Stack:** React • Tailwind CSS • Express.js • MongoDB • Node.js
-
-**Architecture Highlights:**
-- Dual-role architecture with granular permissions
-- Real-time booking engine with conflict resolution
-- Comprehensive service lifecycle management
-- RESTful API design with JWT authentication
-- Responsive, mobile-first UI/UX
-- Production deployment on Vercel
-
-[Live Demo](https://servano.vercel.app) 
+I'm interested in building backend systems that are **maintainable, testable, understandable, and practical to operate.**
 
 ---
 
-### 🛠️ [ServanoLabs](https://servanalabs.vercel.app) – Advanced Admin Dashboard
-> Centralized operations platform with real-time data synchronization
+# 🚀 Selected Projects
 
-**Tech Stack:** React • Tailwind CSS • Express.js • MongoDB
+## 🏢 [VentraNexa](https://ventranexa.in)
 
-**Technical Features:**
-- Event-driven architecture for real-time updates
-- Centralized state management system
-- Analytics dashboard with data visualization
-- Modular, scalable component architecture
-- Performance-optimized rendering
-- Clean separation of concerns
+**B2B Wholesale Marketplace · Client Project**
 
-[Live Demo](https://servanalabs.vercel.app)
+A marketplace connecting retailers and wholesalers while managing products, inventory, orders, sales, and deliveries.
 
----
+### What I worked on
 
-### 🏥 [DoctorSaathi](https://doctorsaathi.vercel.app) – Healthcare Appointment System
-> Complete telemedicine platform connecting patients with healthcare providers
+* Built the application based on client requirements
+* Developed product, inventory, order, and sales APIs
+* Designed and managed MongoDB data structures
+* Implemented role-based access control
+* Built protected API routes
+* Worked on multi-device data synchronization
+* Built two mobile applications
+* Built two web panels
+* Managed VPS deployment and server configuration
 
-**Tech Stack:** React • Node.js • Express.js • MongoDB • Tailwind CSS
-
-**System Features:**
-- Multi-role authentication system (Patients, Doctors, Admin)
-- Appointment scheduling with availability management
-- Secure patient data handling with HIPAA considerations
-- Real-time notification system
-- Medical history & prescription management
-- Optimized database queries for performance
-
-[Live Demo](https://doctorsaathi.vercel.app) 
+**Stack:** React Native · React · Node.js · Express.js · MongoDB · REST API · RBAC
 
 ---
 
-### 🛍️ OZIA – Modern eCommerce Platform
-> Feature-rich eCommerce solution with comprehensive admin capabilities
+## ⚡ [QRFlow](https://qr.servanatech.info)
 
-**Tech Stack:** React • Tailwind CSS • Node.js • Express.js • MongoDB
+**Dynamic QR Platform · SaaS**
 
-**Platform Features:**
-- Dynamic product catalog with advanced filtering
-- Full-featured shopping cart with state persistence
-- Secure checkout flow with payment integration ready
-- Admin panel for inventory & order management
-- Product collections & category management
-- SEO-optimized product pages
+A dynamic QR platform that allows destinations to be changed without generating a new QR code.
 
-**Status:** 🔨 In Active Development | **Expected Launch:** Q1 2025
+### Features
 
----
+* Dynamic QR creation and management
+* Destination URL updates
+* QR resolution APIs
+* QR scan tracking
+* Redis-based caching
+* Event logging
+* Background processing with BullMQ
+* REST APIs
+* Production deployment
 
-### 🎙️ EVA – AI Voice Assistant Frontend
-> Interactive voice interface leveraging Web Speech API
-
-**Tech Stack:** React • Tailwind CSS • Web Speech API • AI Integration
-
-**Technical Implementation:**
-- Real-time speech-to-text conversion
-- Advanced silence detection algorithms
-- Voice activity detection (VAD)
-- Seamless backend AI service integration
-- Low-latency audio processing
-- Intuitive conversational UI
+**Stack:** React · Node.js · Express.js · MongoDB · Redis · BullMQ
 
 ---
 
-## 💻 Technical Arsenal
+## 🛒 Marketplace System
 
-### Frontend Engineering
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Java Backend Engineering Project**
 
-### Backend Engineering
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+A progressive marketplace backend project focused on applying backend engineering concepts through a real domain.
 
-### Systems Programming
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+### Current areas
 
-### Development Tools & Practices
-- Version Control: Git & GitHub
-- API Development: RESTful architecture
-- Database: MongoDB with Mongoose ODM
-- Deployment: Vercel, cloud platforms
-- Authentication: JWT, session management
-- UI/UX: Responsive design, accessibility standards
+* Java OOP and domain modeling
+* SOLID principles
+* Clean and layered architecture
+* Service and repository patterns
+* Product, customer, cart, and order domains
+* Validation and business rules
+* Unit testing
+* Spring Boot
+* PostgreSQL
+* JPA / Hibernate
+* REST APIs
+* Authentication and authorization
+* Redis
+* System design
+
+**Stack:** Java · Spring Boot · PostgreSQL · JPA · Hibernate · Maven · JUnit
+
+**Status:** 🚧 In Development
 
 ---
 
-## 📊 GitHub Analytics
+## 🚗 [Servano](https://servano.vercel.app)
+
+**Car Service Booking Platform**
+
+A web application for managing car services and bookings.
+
+### Features
+
+* Service management
+* Booking management
+* Authentication
+* Role-based access
+* REST APIs
+* Responsive interface
+* Database management
+
+**Stack:** React · Tailwind CSS · Node.js · Express.js · MongoDB
+
+---
+
+## 🏥 [DoctorSaathi](https://doctorsaathi.vercel.app)
+
+**Healthcare Appointment Platform · Hackathon Project**
+
+A platform connecting patients and doctors through appointment workflows.
+
+### Features
+
+* Patient and doctor workflows
+* Appointment scheduling
+* Availability management
+* Authentication
+* Medical information management
+* Admin functionality
+* Notifications
+
+**Stack:** React · Node.js · Express.js · MongoDB · Tailwind CSS
+
+---
+
+## 🎙️ EVA
+
+**AI Voice Assistant Interface**
+
+A voice-based AI interface built around browser speech capabilities and AI service integration.
+
+### Features
+
+* Speech-to-text
+* Voice interaction
+* Conversational interface
+* Voice activity handling
+* AI service integration
+
+**Stack:** React · JavaScript · Web Speech API · Python · FastAPI · AI APIs
+
+---
+
+# 🧰 Technical Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+### Backend
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+
+REST APIs · JWT · RBAC · Background Processing
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+
+### Databases & Data
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+
+JPA · Hibernate · Data Modeling · Caching
+
+### Engineering & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge\&logo=junit5\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+OOP · SOLID · Clean Architecture · Layered Architecture · LLD · HLD
+
+---
+
+# 🎯 Current Focus
+
+```text
+Java
+  ↓
+Spring Boot
+  ↓
+REST APIs
+  ↓
+PostgreSQL
+  ↓
+JPA / Hibernate
+  ↓
+Security
+  ↓
+Redis
+  ↓
+System Design
+  ↓
+Distributed Systems
+```
+
+Alongside learning, I'm applying these concepts through my **Java Marketplace System** project.
+
+---
+
+# 🧠 How I Approach Software
+
+```text
+Model
+  ↓
+Build
+  ↓
+Test
+  ↓
+Measure
+  ↓
+Improve
+  ↓
+Scale
+```
+
+I prefer understanding the problem and domain first, then building the simplest solution that solves the actual requirement.
+
+From there:
+
+* Test the behavior
+* Measure real problems
+* Improve where necessary
+* Add complexity when the system actually needs it
+
+---
+
+# 📊 GitHub
 
 <div align="center">
-  
-  ![Priyaranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=csepriyaranjan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=csepriyaranjan&theme=tokyonight&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=csepriyaranjan&layout=compact&theme=tokyonight&hide_border=true)
+
+<img src="https://github-readme-stats.vercel.app/api?username=csepriyaranjan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=csepriyaranjan&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csepriyaranjan&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+# 🤝 Let's Connect
 
-```javascript
-const currentFocus = {
-  building: ["Scalable MERN applications", "Real-time systems"],
-  exploring: ["Advanced React patterns", "Microservices architecture"],
-  learning: ["Cloud infrastructure", "DevOps pipelines", "System design"],
-  collaborating: "Open to full-stack opportunities and open-source projects"
-};
-```
+I'm interested in opportunities involving:
 
----
-
-## 🤝 Let's Build Together
-
-I'm always interested in connecting with fellow engineers, discussing technical challenges, and exploring collaboration opportunities on innovative projects.
-
-**Open to:**
-- 💼 Full-stack development opportunities
-- 🚀 Technical consulting and architecture discussions
-- 🤝 Open-source collaborations
-- 💡 Innovative project partnerships
-
----
+* Java Backend Development
+* Full-Stack Development
+* Software Engineering
+* Backend systems and APIs
+* Real-world product development
 
 <div align="center">
-  
-  ### 📫 Get In Touch
-  
-  **Email:** [cse.priyaranjan@gmail.com](mailto:cse.priyaranjan@gmail.com) • **LinkedIn:** [csepriyaranjan](https://www.linkedin.com/in/csepriyaranjan)
-  
-  ---
-  
-  <img src="https://komarev.com/ghpvc/?username=csepriyaranjan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  
-  <p><i>⚡ Transforming ideas into elegant, scalable solutions ⚡</i></p>
-  
+
+### 📫 Get In Touch
+
+**Email:** [cse.priyaranjan@gmail.com](mailto:cse.priyaranjan@gmail.com)
+
+**LinkedIn:** [linkedin.com/in/csepriyaranjan](https://www.linkedin.com/in/csepriyaranjan)
+
+**Portfolio:** [Visit Portfolio](#)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=csepriyaranjan&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+<br/><br/>
+
+*Build. Understand. Improve.*
+
 </div>
